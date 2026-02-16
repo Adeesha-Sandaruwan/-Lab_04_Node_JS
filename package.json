@@ -1,0 +1,20 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "**Name:** DE SILVA Y A S\r **Student ID:** IT23551084\r **Degree:** BSc (Hons) in Information Technology – Software Engineering Specialization\r **Year:** 3rd Year\r **Faculty:** Faculty of Computing – SLIIT\r **Year:** 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adeesha-Sandaruwan/-Lab_04_Node_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adeesha-Sandaruwan/-Lab_04_Node_JS/issues"
+  },
+  "homepage": "https://github.com/Adeesha-Sandaruwan/-Lab_04_Node_JS#readme"
+}
