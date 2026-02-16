@@ -15,3 +15,5 @@ myPromise
     .catch((error) => {
         console.log(error);
     });
+
+module.exports = myPromise;
